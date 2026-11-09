@@ -18,7 +18,7 @@ I woke up with this strange, lingering restlessness, wondering what all of those
 
 That question sent me down a rabbit hole, realizing it linked directly to symplectic topology, something I had just encountered while establishing a routine of self-studying General Relativity through Sean Carroll's lecture notes. 
 
-On my way back from work, sitting on the bus, I spiraled into an endless chain of questions: what actually happens to the "fundamentals of reality" if we continue zooming past $10^{-35}\text{ m}$? 
+On my way back from work, sitting on the bus, I spiraled into an endless chain of questions: what actually happens to the "fundamentals" if we continue zooming past $10^{-35}\text{ m}$? 
 
 At that scale, any smooth continuum structure has to break down into something interconnected and holistic. 
 
