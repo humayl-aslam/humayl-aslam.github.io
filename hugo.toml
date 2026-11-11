@@ -35,3 +35,6 @@ theme = 'PaperMod'
   [[params.socialIcons]]
     name = "github"
     url = "https://humayl-aslam.github.io/"
+
+[markup.goldmark.renderer]
+  unsafe = true
